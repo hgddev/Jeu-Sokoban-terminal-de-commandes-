@@ -7,7 +7,7 @@ Le but du jeu est de pousser des caisses sur des emplacements cibles dans un ent
 
 
 
-- Fonctionnalités
+Fonctionnalités :
 
 * **Gameplay Classique :** Déplacements fluides du joueur (haut, bas, gauche, droite) avec gestion stricte des collisions (murs et caisses).
 * **Moteur de Jeu Robuste :** Gestion des conditions de victoire (toutes les caisses sur les cibles).
@@ -15,16 +15,18 @@ Le but du jeu est de pousser des caisses sur des emplacements cibles dans un ent
 * **Lecture de Niveaux Externes :** Chargement dynamique des cartes à partir de fichiers textes (`.txt`).
 * **Compteur de Coups :** Affichage en temps réel des pas effectués et des caisses bien placées.
 
-- Compétences Développées (BUT Informatique)
+
+
 
 Ce projet a permis de valider plusieurs livrables essentiels des blocs de compétences de première année :
+
 - Conception d'une architecture de code propre, modularité des fonctions et gestion de la mémoire.
 - Manipulation de matrices (tableaux 2D) pour la grille, structures de données complexes et algorithmes de vérification d'états.
 
 
 
 
-- Aperçu des Symboles du Jeu
+Aperçu des Symboles du Jeu :
 
 | Symbole | Élément |
 | :---: | :--- |
@@ -38,14 +40,15 @@ Ce projet a permis de valider plusieurs livrables essentiels des blocs de compé
 
 
 
-- Installation et Lancement
+Installation et Lancement du jeu :
 
 Prérequis pour jouer
 - Avoir un compilateur installé (comme `gcc` pour le C ou `g++` pour le C++).
 - Avoir un OS sous Linux ou similaire.
 
 
-- Compilation
+
+
   
 Téléchargez et compilez le projet à l'aide de la commande bash suivante :
 
