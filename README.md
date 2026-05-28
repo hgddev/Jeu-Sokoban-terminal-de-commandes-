@@ -1,4 +1,4 @@
-#Jeu SOKOBAN
+Jeu SOKOBAN
 
 
 J'ai programmé le jeu sokoban avec tout ses mouvement et ses fonctionnalités.
